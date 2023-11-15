@@ -17,6 +17,8 @@ Deep convolutional neural networks are effective tools for performing various pe
 
 A full text manuscript describing the development and validation of this model is described [here](https://www.science.org/doi/10.1126/sciadv.aaw4358).
 
+The MATALB Series Network object for EmoNet can be downloaded [here](https://osf.io/htfdm/).
+
 # System Requirements
 
 ## Hardware Requirements
