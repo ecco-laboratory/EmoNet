@@ -66,7 +66,7 @@ The tutorial requires the [Deep Learning](https://www.mathworks.com/products/dee
 
 
 # Demo
-Add this repository to your MATLAB path with the addpath function, or change your working directory to the location of the repository on your filesystem using the cd function, and then run the EmoNetTutorial script for an interactive demonstration of EmoNet.
+Add this repository to your MATLAB path with the 'addpath', or change your working directory to the location of the repository on your filesystem using 'cd', and then run 'EmoNetTutorial' for an interactive demonstration of EmoNet.
 
 # Citation
 
