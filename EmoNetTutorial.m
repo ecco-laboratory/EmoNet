@@ -4,7 +4,7 @@
 %% Get the EmoNet model
 model_filepath=which('netTransfer_20cat.mat');
 if isempty(model_filepath)
-    fprintf('Please download EmoNet from https://sites.google.com/colorado.edu/emonet \n');
+    fprintf('Please download EmoNet from https://osf.io/htfdm/ \n');
 end
 
 %% Load EmoNet
